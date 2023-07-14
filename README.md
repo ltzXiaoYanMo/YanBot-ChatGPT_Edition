@@ -15,3 +15,5 @@ YanBot的ChatGPT版本，可以将ChatGPT打包进Bot中。
 <del>GNU你能不能死一死啊</del>
 
                               -----By ltzXiaoYanMo
+
+此项目已在2023/7/14 14:00（UTC+8）停止支持，<del>答辩答辩还是答辩（恼）</del>
